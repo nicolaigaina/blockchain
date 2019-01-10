@@ -33,6 +33,7 @@ const currentBlockData = [
 
 // bitcoin.createNewBlock(23, 'TEST-DUMMY-HASH1', 'TEST-DUMMY-HASH2');
 
-console.log(bitcoin.hashBlock(previosBlockHash, currentBlockData, 22082));
+// console.log(bitcoin.hashBlock(previosBlockHash, currentBlockData, 22082));
 
-// console.log(bitcoin);
+
+console.log(bitcoin);
